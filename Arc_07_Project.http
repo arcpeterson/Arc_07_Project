@@ -1,0 +1,6 @@
+@Arc_07_Project_HostAddress = http://localhost:5059
+
+GET {{Arc_07_Project_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
